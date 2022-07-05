@@ -1,0 +1,12 @@
+git clone + link ( para copiar na maquina )
+
+git status ( verifica e que modo esta ) 
+
+cd ( navego entre as pastas de arquivos ) 
+
+crtl + l ( limpa tela ) 
+
+git add . ( para considerar pronto para envio, controle de versão local ) 
+
+
+git commit -m "Inserção das anotações do curso de git/github"
